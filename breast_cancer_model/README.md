@@ -5,6 +5,7 @@ This project aims to build a machine learning model to classify breast cancer tu
 ## Dataset
 
 The dataset used in this project is the Breast Cancer dataset obtained from Kaggle. It contains information about various features of breast tumors, such as mean radius, mean texture, mean perimeter, mean area, and mean smoothness. The target variable is the diagnosis, which indicates whether a tumor is malignant (1) or benign (0).
+
 https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
 
 ## Project Structure
@@ -23,20 +24,6 @@ The project follows the following steps:
 
 6. Model Evaluation: The model's performance is evaluated using the validation set. Loss and accuracy metrics are displayed, and a loss plot is generated to visualize the training progress. The final model is then evaluated on the test set to obtain the test accuracy.
 
-## Usage
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-2. Install the required dependencies:
-
-numpy
-matplotlib
-pandas
-seaborn
-tensorflow
-scikit-learn
 
 
 
